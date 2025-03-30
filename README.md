@@ -49,11 +49,6 @@ These are not formal algorithms but are vital for system functionality:
 
 ---
 
-
-
----
-
-## How to Run
-1. Navigate to the `src/` directory:
-   ```bash
-   cd fleet_management_system/src
+## Demo
+Check out the live demo of the Fleet Management System:
+[Demo Link](https://drive.google.com/file/d/13t_3SDzz0yTfHeB1xopSoRsTgSeTtcSK/view?usp=sharing)
