@@ -1,0 +1,183 @@
+2025-03-29 11:31:36,509 [INFO] [2025-03-29 11:31:36] Robot Robot_1 spawned at vertex 0
+2025-03-29 11:31:36,509 [INFO] Spawned Robot_1 at vertex 0
+2025-03-29 11:31:38,697 [INFO] [2025-03-29 11:31:38] Robot Robot_2 spawned at vertex 5
+2025-03-29 11:31:38,697 [INFO] Spawned Robot_2 at vertex 5
+2025-03-29 11:31:40,313 [INFO] [2025-03-29 11:31:40] Robot Robot_3 spawned at vertex 6
+2025-03-29 11:31:40,313 [INFO] Spawned Robot_3 at vertex 6
+2025-03-29 11:31:41,658 [INFO] [2025-03-29 11:31:41] Robot Robot_4 spawned at vertex 7
+2025-03-29 11:31:41,658 [INFO] Spawned Robot_4 at vertex 7
+2025-03-29 11:31:44,535 [INFO] [2025-03-29 11:31:44] Robot Robot_5 spawned at vertex 12
+2025-03-29 11:31:44,553 [INFO] Spawned Robot_5 at vertex 12
+2025-03-29 11:49:30,512 [INFO] [2025-03-29 11:49:30] Robot Robot_1 spawned at vertex 5
+2025-03-29 11:49:30,512 [INFO] Spawned Robot_1 at vertex 5
+2025-03-29 11:49:33,971 [INFO] Selected Robot_1 at vertex 5
+2025-03-29 11:49:38,288 [INFO] [2025-03-29 11:49:38] Robot Robot_1 assigned task to navigate to vertex 7 via path [5, 11, 6, 7]
+2025-03-29 11:49:38,288 [INFO] Assigned task to Robot_1: Navigate from 5 to 7
+2025-03-29 11:49:39,189 [INFO] [2025-03-29 11:49:39] Robot Robot_1 reached vertex 11
+2025-03-29 11:49:39,190 [INFO] [2025-03-29 11:49:39] Robot Robot_1 moving from vertex 11 to 6
+2025-03-29 11:49:40,109 [INFO] [2025-03-29 11:49:40] Robot Robot_1 reached vertex 6
+2025-03-29 11:49:40,109 [INFO] [2025-03-29 11:49:40] Robot Robot_1 moving from vertex 6 to 7
+2025-03-29 11:49:41,040 [INFO] [2025-03-29 11:49:41] Robot Robot_1 reached vertex 7
+2025-03-29 11:49:41,041 [INFO] [2025-03-29 11:49:41] Robot Robot_1 completed task at vertex 7
+2025-03-29 11:53:26,136 [INFO] [2025-03-29 11:53:26] Robot Robot_1 spawned at vertex 3
+2025-03-29 11:53:26,149 [INFO] Spawned Robot_1 at vertex 3
+2025-03-29 11:53:28,894 [INFO] Selected Robot_1 at vertex 3
+2025-03-29 11:53:34,275 [INFO] [2025-03-29 11:53:34] Invalid path assigned to Robot Robot_1
+2025-03-29 11:53:34,275 [INFO] Failed to assign task to Robot_1
+2025-03-29 11:53:38,049 [INFO] [2025-03-29 11:53:38] Robot Robot_2 spawned at vertex 7
+2025-03-29 11:53:38,049 [INFO] Spawned Robot_2 at vertex 7
+2025-03-29 11:53:40,803 [INFO] Selected Robot_2 at vertex 7
+2025-03-29 11:53:44,008 [INFO] [2025-03-29 11:53:44] Robot Robot_2 assigned task to navigate to vertex 6 via path [7, 6]
+2025-03-29 11:53:44,008 [INFO] Assigned task to Robot_2: Navigate from 7 to 6
+2025-03-29 11:53:44,748 [INFO] [2025-03-29 11:53:44] Robot Robot_2 reached vertex 6
+2025-03-29 11:53:44,748 [INFO] [2025-03-29 11:53:44] Robot Robot_2 completed task at vertex 6
+2025-03-29 11:53:48,483 [INFO] Selected Robot_1 at vertex 3
+2025-03-29 11:53:49,824 [INFO] [2025-03-29 11:53:49] Robot Robot_1 assigned task to navigate to vertex 2 via path [3, 13, 2]
+2025-03-29 11:53:49,824 [INFO] Assigned task to Robot_1: Navigate from 3 to 2
+2025-03-29 11:53:50,859 [INFO] [2025-03-29 11:53:50] Robot Robot_1 reached vertex 13
+2025-03-29 11:53:50,859 [INFO] [2025-03-29 11:53:50] Robot Robot_1 moving from vertex 13 to 2
+2025-03-29 11:53:51,830 [INFO] [2025-03-29 11:53:51] Robot Robot_1 reached vertex 2
+2025-03-29 11:53:51,830 [INFO] [2025-03-29 11:53:51] Robot Robot_1 completed task at vertex 2
+2025-03-29 11:53:59,419 [INFO] [2025-03-29 11:53:59] Robot Robot_3 spawned at vertex 1
+2025-03-29 11:53:59,419 [INFO] Spawned Robot_3 at vertex 1
+2025-03-29 11:54:01,104 [INFO] [2025-03-29 11:54:01] Robot Robot_4 spawned at vertex 12
+2025-03-29 11:54:01,104 [INFO] Spawned Robot_4 at vertex 12
+2025-03-29 11:54:01,997 [INFO] Selected Robot_4 at vertex 12
+2025-03-29 11:54:04,132 [INFO] [2025-03-29 11:54:04] Robot Robot_4 assigned task to navigate to vertex 1 via path [12, 8, 9, 2, 13, 3, 1]
+2025-03-29 11:54:04,132 [INFO] Assigned task to Robot_4: Navigate from 12 to 1
+2025-03-29 11:54:05,969 [INFO] [2025-03-29 11:54:05] Robot Robot_4 reached vertex 8
+2025-03-29 11:54:05,969 [INFO] [2025-03-29 11:54:05] Robot Robot_4 moving from vertex 8 to 9
+2025-03-29 11:54:08,070 [INFO] [2025-03-29 11:54:08] Robot Robot_4 reached vertex 9
+2025-03-29 11:54:08,070 [INFO] [2025-03-29 11:54:08] Robot Robot_4 moving from vertex 9 to 2
+2025-03-29 11:54:10,232 [INFO] [2025-03-29 11:54:10] Robot Robot_4 reached vertex 2
+2025-03-29 11:54:10,232 [INFO] [2025-03-29 11:54:10] Robot Robot_4 moving from vertex 2 to 13
+2025-03-29 11:54:12,474 [INFO] [2025-03-29 11:54:12] Robot Robot_4 reached vertex 13
+2025-03-29 11:54:12,474 [INFO] [2025-03-29 11:54:12] Robot Robot_4 moving from vertex 13 to 3
+2025-03-29 11:54:14,833 [INFO] [2025-03-29 11:54:14] Robot Robot_4 reached vertex 3
+2025-03-29 11:54:14,833 [INFO] [2025-03-29 11:54:14] Robot Robot_4 moving from vertex 3 to 1
+2025-03-29 11:54:17,184 [INFO] [2025-03-29 11:54:17] Robot Robot_4 reached vertex 1
+2025-03-29 11:54:17,184 [INFO] [2025-03-29 11:54:17] Robot Robot_4 completed task at vertex 1
+2025-03-29 11:54:24,978 [INFO] [2025-03-29 11:54:24] Robot Robot_5 spawned at vertex 10
+2025-03-29 11:54:24,978 [INFO] Spawned Robot_5 at vertex 10
+2025-03-29 11:54:28,236 [INFO] [2025-03-29 11:54:28] Robot Robot_6 spawned at vertex 7
+2025-03-29 11:54:28,236 [INFO] Spawned Robot_6 at vertex 7
+2025-03-29 11:54:34,895 [INFO] Selected Robot_5 at vertex 10
+2025-03-29 11:54:37,368 [INFO] [2025-03-29 11:54:37] Robot Robot_5 assigned task to navigate to vertex 7 via path [10, 0, 4, 5, 11, 6, 7]
+2025-03-29 11:54:37,384 [INFO] Assigned task to Robot_5: Navigate from 10 to 7
+2025-03-29 11:54:40,539 [INFO] [2025-03-29 11:54:40] Robot Robot_5 reached vertex 0
+2025-03-29 11:54:40,539 [INFO] [2025-03-29 11:54:40] Robot Robot_5 moving from vertex 0 to 4
+2025-03-29 11:54:44,004 [INFO] [2025-03-29 11:54:44] Robot Robot_5 reached vertex 4
+2025-03-29 11:54:44,004 [INFO] [2025-03-29 11:54:44] Robot Robot_5 moving from vertex 4 to 5
+2025-03-29 11:54:47,605 [INFO] [2025-03-29 11:54:47] Robot Robot_5 reached vertex 5
+2025-03-29 11:54:47,605 [INFO] [2025-03-29 11:54:47] Robot Robot_5 moving from vertex 5 to 11
+2025-03-29 11:54:51,338 [INFO] [2025-03-29 11:54:51] Robot Robot_5 reached vertex 11
+2025-03-29 11:54:51,338 [INFO] [2025-03-29 11:54:51] Robot Robot_5 moving from vertex 11 to 6
+2025-03-29 11:54:55,004 [INFO] [2025-03-29 11:54:55] Robot Robot_5 reached vertex 6
+2025-03-29 11:54:55,004 [INFO] [2025-03-29 11:54:55] Robot Robot_5 moving from vertex 6 to 7
+2025-03-29 11:54:58,813 [INFO] [2025-03-29 11:54:58] Robot Robot_5 reached vertex 7
+2025-03-29 11:54:58,813 [INFO] [2025-03-29 11:54:58] Robot Robot_5 completed task at vertex 7
+2025-03-30 14:15:20,276 [INFO] [2025-03-30 14:15:20] Robot Robot_1 spawned at vertex 11
+2025-03-30 14:15:20,276 [INFO] Spawned Robot_1 at vertex 11
+2025-03-30 14:15:23,379 [INFO] Selected Robot_1 at vertex 11
+2025-03-30 14:15:29,577 [INFO] [2025-03-30 14:15:29] Robot Robot_1 assigned task to navigate to vertex 4 via path [11, 5, 4]
+2025-03-30 14:15:29,577 [INFO] Assigned task to Robot_1: Navigate from 11 to 4
+2025-03-30 14:15:30,495 [INFO] [2025-03-30 14:15:30] Robot Robot_1 reached vertex 5
+2025-03-30 14:15:30,495 [INFO] [2025-03-30 14:15:30] Robot Robot_1 moving from vertex 5 to 4
+2025-03-30 14:15:31,441 [INFO] [2025-03-30 14:15:31] Robot Robot_1 reached vertex 4
+2025-03-30 14:15:31,441 [INFO] [2025-03-30 14:15:31] Robot Robot_1 completed task at vertex 4
+2025-03-30 14:15:33,510 [INFO] Selected Robot_1 at vertex 4
+2025-03-30 14:15:35,205 [INFO] [2025-03-30 14:15:35] Robot Robot_1 assigned task to navigate to vertex 5 via path [4, 5]
+2025-03-30 14:15:35,205 [INFO] Assigned task to Robot_1: Navigate from 4 to 5
+2025-03-30 14:15:36,090 [INFO] [2025-03-30 14:15:36] Robot Robot_1 reached vertex 5
+2025-03-30 14:15:36,090 [INFO] [2025-03-30 14:15:36] Robot Robot_1 completed task at vertex 5
+2025-03-30 14:15:37,672 [INFO] [2025-03-30 14:15:37] Robot Robot_2 spawned at vertex 6
+2025-03-30 14:15:37,672 [INFO] Spawned Robot_2 at vertex 6
+2025-03-30 14:15:38,973 [INFO] [2025-03-30 14:15:38] Robot Robot_3 spawned at vertex 11
+2025-03-30 14:15:38,973 [INFO] Spawned Robot_3 at vertex 11
+2025-03-30 14:15:40,094 [INFO] [2025-03-30 14:15:40] Robot Robot_4 spawned at vertex 0
+2025-03-30 14:15:40,094 [INFO] Spawned Robot_4 at vertex 0
+2025-03-30 14:15:41,809 [INFO] [2025-03-30 14:15:41] Robot Robot_5 spawned at vertex 1
+2025-03-30 14:15:41,809 [INFO] Spawned Robot_5 at vertex 1
+2025-03-30 14:15:44,788 [INFO] Selected Robot_3 at vertex 11
+2025-03-30 14:15:45,979 [INFO] [2025-03-30 14:15:45] Robot Robot_3 assigned task to navigate to vertex 6 via path [11, 6]
+2025-03-30 14:15:45,988 [INFO] Assigned task to Robot_3: Navigate from 11 to 6
+2025-03-30 14:15:47,457 [INFO] [2025-03-30 14:15:47] Robot Robot_3 reached vertex 6
+2025-03-30 14:15:47,457 [INFO] [2025-03-30 14:15:47] Robot Robot_3 completed task at vertex 6
+2025-03-30 14:15:48,166 [INFO] [2025-03-30 14:15:48] Robot Robot_6 spawned at vertex 10
+2025-03-30 14:15:48,213 [INFO] Spawned Robot_6 at vertex 10
+2025-03-30 14:15:49,177 [INFO] Selected Robot_6 at vertex 10
+2025-03-30 14:15:51,403 [INFO] [2025-03-30 14:15:51] Robot Robot_6 assigned task to navigate to vertex 4 via path [10, 0, 4]
+2025-03-30 14:15:51,403 [INFO] Assigned task to Robot_6: Navigate from 10 to 4
+2025-03-30 14:15:52,793 [INFO] Selected Robot_4 at vertex 0
+2025-03-30 14:15:53,267 [INFO] [2025-03-30 14:15:53] Invalid path assigned to Robot Robot_4
+2025-03-30 14:15:53,267 [INFO] Failed to assign task to Robot_4
+2025-03-30 14:15:53,267 [INFO] [2025-03-30 14:15:53] Robot Robot_6 reached vertex 0
+2025-03-30 14:15:53,267 [INFO] [2025-03-30 14:15:53] Robot Robot_6 moving from vertex 0 to 4
+2025-03-30 14:15:54,482 [INFO] [2025-03-30 14:15:54] Robot Robot_7 spawned at vertex 4
+2025-03-30 14:15:54,546 [INFO] Spawned Robot_7 at vertex 4
+2025-03-30 14:15:55,160 [INFO] Selected Robot_7 at vertex 4
+2025-03-30 14:15:55,538 [INFO] [2025-03-30 14:15:55] Robot Robot_6 reached vertex 4
+2025-03-30 14:15:55,538 [INFO] [2025-03-30 14:15:55] Robot Robot_6 completed task at vertex 4
+2025-03-30 14:15:57,233 [INFO] [2025-03-30 14:15:57] Robot Robot_7 assigned task to navigate to vertex 7 via path [4, 5, 11, 6, 7]
+2025-03-30 14:15:57,233 [INFO] Assigned task to Robot_7: Navigate from 4 to 7
+2025-03-30 14:15:57,469 [INFO] [2025-03-30 14:15:57] Robot Robot_8 spawned at vertex 7
+2025-03-30 14:15:57,469 [INFO] Spawned Robot_8 at vertex 7
+2025-03-30 14:15:58,241 [INFO] Selected Robot_8 at vertex 7
+2025-03-30 14:15:58,384 [INFO] [2025-03-30 14:15:58] Invalid path assigned to Robot Robot_8
+2025-03-30 14:15:58,384 [INFO] Failed to assign task to Robot_8
+2025-03-30 14:15:59,492 [INFO] [2025-03-30 14:15:59] Robot Robot_7 reached vertex 5
+2025-03-30 14:15:59,492 [INFO] [2025-03-30 14:15:59] Robot Robot_7 moving from vertex 5 to 11
+2025-03-30 14:16:00,235 [INFO] [2025-03-30 14:16:00] Robot Robot_9 spawned at vertex 11
+2025-03-30 14:16:00,251 [INFO] Spawned Robot_9 at vertex 11
+2025-03-30 14:16:00,410 [INFO] Selected Robot_9 at vertex 11
+2025-03-30 14:16:02,085 [INFO] [2025-03-30 14:16:02] Robot Robot_7 reached vertex 11
+2025-03-30 14:16:02,085 [INFO] [2025-03-30 14:16:02] Robot Robot_7 moving from vertex 11 to 6
+2025-03-30 14:16:04,789 [INFO] [2025-03-30 14:16:04] Robot Robot_7 reached vertex 6
+2025-03-30 14:16:04,789 [INFO] [2025-03-30 14:16:04] Robot Robot_7 moving from vertex 6 to 7
+2025-03-30 14:16:07,894 [INFO] [2025-03-30 14:16:07] Robot Robot_7 reached vertex 7
+2025-03-30 14:16:07,894 [INFO] [2025-03-30 14:16:07] Robot Robot_7 completed task at vertex 7
+2025-03-30 19:19:28,934 [INFO] [2025-03-30 19:19:28] Robot Robot_1 spawned at vertex 6
+2025-03-30 19:19:28,941 [INFO] Spawned Robot_1 at vertex 6
+2025-03-30 19:19:30,274 [INFO] Selected Robot_1 at vertex 6
+2025-03-30 19:19:32,299 [INFO] [2025-03-30 19:19:32] Robot Robot_1 assigned task to navigate to vertex 3 via path [6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 19:19:32,299 [INFO] Assigned task to Robot_1: Navigate from 6 to 3
+2025-03-30 19:19:33,202 [INFO] [2025-03-30 19:19:33] Robot Robot_1 reached vertex 7
+2025-03-30 19:19:33,202 [INFO] [2025-03-30 19:19:33] Robot Robot_1 moving from vertex 7 to 12
+2025-03-30 19:19:34,120 [INFO] [2025-03-30 19:19:34] Robot Robot_1 reached vertex 12
+2025-03-30 19:19:34,121 [INFO] [2025-03-30 19:19:34] Robot Robot_1 moving from vertex 12 to 8
+2025-03-30 19:19:35,054 [INFO] [2025-03-30 19:19:35] Robot Robot_1 reached vertex 8
+2025-03-30 19:19:35,054 [INFO] [2025-03-30 19:19:35] Robot Robot_1 moving from vertex 8 to 9
+2025-03-30 19:19:35,888 [INFO] [2025-03-30 19:19:35] Robot Robot_1 reached vertex 9
+2025-03-30 19:19:35,891 [INFO] [2025-03-30 19:19:35] Robot Robot_1 moving from vertex 9 to 2
+2025-03-30 19:19:36,800 [INFO] [2025-03-30 19:19:36] Robot Robot_1 reached vertex 2
+2025-03-30 19:19:36,800 [INFO] [2025-03-30 19:19:36] Robot Robot_1 moving from vertex 2 to 13
+2025-03-30 19:19:37,722 [INFO] [2025-03-30 19:19:37] Robot Robot_1 reached vertex 13
+2025-03-30 19:19:37,722 [INFO] [2025-03-30 19:19:37] Robot Robot_1 moving from vertex 13 to 3
+2025-03-30 19:19:38,636 [INFO] [2025-03-30 19:19:38] Robot Robot_1 reached vertex 3
+2025-03-30 19:19:38,637 [INFO] [2025-03-30 19:19:38] Robot Robot_1 completed task at vertex 3
+2025-03-30 19:19:41,214 [INFO] [2025-03-30 19:19:41] Robot Robot_2 spawned at vertex 0
+2025-03-30 19:19:41,214 [INFO] Spawned Robot_2 at vertex 0
+2025-03-30 19:19:43,805 [INFO] [2025-03-30 19:19:43] Robot Robot_3 spawned at vertex 1
+2025-03-30 19:19:43,805 [INFO] Spawned Robot_3 at vertex 1
+2025-03-30 19:19:46,891 [INFO] Selected Robot_2 at vertex 0
+2025-03-30 19:19:49,301 [INFO] [2025-03-30 19:19:49] Robot Robot_2 assigned task to navigate to vertex 1 via path [0, 10, 1]
+2025-03-30 19:19:49,301 [INFO] Assigned task to Robot_2: Navigate from 0 to 1
+2025-03-30 19:19:50,094 [INFO] [2025-03-30 19:19:50] Robot Robot_2 reached vertex 10
+2025-03-30 19:19:50,094 [INFO] [2025-03-30 19:19:50] Robot Robot_2 moving from vertex 10 to 1
+2025-03-30 19:19:50,953 [INFO] [2025-03-30 19:19:50] Robot Robot_2 reached vertex 1
+2025-03-30 19:19:50,953 [INFO] [2025-03-30 19:19:50] Robot Robot_2 completed task at vertex 1
+2025-03-30 19:19:52,763 [INFO] [2025-03-30 19:19:52] Robot Robot_4 spawned at vertex 5
+2025-03-30 19:19:52,763 [INFO] Spawned Robot_4 at vertex 5
+2025-03-30 19:19:54,601 [INFO] Selected Robot_4 at vertex 5
+2025-03-30 19:19:56,861 [INFO] [2025-03-30 19:19:56] Robot Robot_4 assigned task to navigate to vertex 3 via path [5, 4, 0, 10, 1, 3]
+2025-03-30 19:19:56,861 [INFO] Assigned task to Robot_4: Navigate from 5 to 3
+2025-03-30 19:19:58,295 [INFO] [2025-03-30 19:19:58] Robot Robot_4 reached vertex 4
+2025-03-30 19:19:58,295 [INFO] [2025-03-30 19:19:58] Robot Robot_4 moving from vertex 4 to 0
+2025-03-30 19:19:59,823 [INFO] [2025-03-30 19:19:59] Robot Robot_4 reached vertex 0
+2025-03-30 19:19:59,823 [INFO] [2025-03-30 19:19:59] Robot Robot_4 moving from vertex 0 to 10
+2025-03-30 19:20:01,375 [INFO] [2025-03-30 19:20:01] Robot Robot_4 reached vertex 10
+2025-03-30 19:20:01,375 [INFO] [2025-03-30 19:20:01] Robot Robot_4 moving from vertex 10 to 1
+2025-03-30 19:20:02,755 [INFO] [2025-03-30 19:20:02] Robot Robot_4 reached vertex 1
+2025-03-30 19:20:02,755 [INFO] [2025-03-30 19:20:02] Robot Robot_4 moving from vertex 1 to 3
+2025-03-30 19:20:04,227 [INFO] [2025-03-30 19:20:04] Robot Robot_4 reached vertex 3
+2025-03-30 19:20:04,227 [INFO] [2025-03-30 19:20:04] Robot Robot_4 completed task at vertex 3
